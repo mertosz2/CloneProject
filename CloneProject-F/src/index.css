@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme {
+    --color-secondary: #e5e5e5; 
+    --color-secondary-hover: #d4d4d4; 
+    --color-secondary-border: #a3a3a3; 
+    --color-secondary-text: #737373; 
+    --color-secondary-dark: #262626; 
+    --color-secondary-dark-hover: #171717; }
